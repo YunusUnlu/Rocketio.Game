@@ -1,5 +1,5 @@
 Rocketio.Game — Space Devourer
-A tiny .io-style browser arcade. Eat smaller celestial objects to grow, avoid the big ones, pick up ammo and health, and clear the map! 🚀
+A tiny .io-style browser arcade. Eat smaller celestial objects to grow, avoid the big ones, pick up ammo and health, and clear the map!
 Quick start: open index.html in a modern browser. (Local server recommended—see below.)
 Eat & grow: Your ship eats smaller objects and grows in size.
 
